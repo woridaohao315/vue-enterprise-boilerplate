@@ -1,3 +1,4 @@
+[中文版](README_cn.md)
 # Vue Enterprise Boilerplate
 
 [![CircleCI](https://circleci.com/gh/chrisvfritz/vue-enterprise-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/chrisvfritz/vue-enterprise-boilerplate/tree/master)
